@@ -1,11 +1,10 @@
-import React from 'react'
-
-const App = () => {
+function App() {
   return (
     <div>
-      app
+      <h1>Hello React</h1>
+      <p>Welcome to Methodist Church App</p>
     </div>
-  )
+  );
 }
 
 export default App
